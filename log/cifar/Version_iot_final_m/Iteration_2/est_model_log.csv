@@ -1,0 +1,6 @@
+Epoch,1
+Training data : ,loss,1.1996454690297444,accuracy,0.34041666666666665
+Val data : ,loss,1.1465576527913413,accuracy,0.33666666666666667
+Epoch,2
+Training data : ,loss,1.1196770420074462,accuracy,0.34591666666666665
+Val data : ,loss,1.1050478591918946,accuracy,0.35

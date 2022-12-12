@@ -1,0 +1,75 @@
+Epoch,1
+Training data : ,loss,1.171868818918864,accuracy,0.33908333333333335
+Val data : ,loss,1.1189593989054363,accuracy,0.3546666666666667
+Epoch,2
+Training data : ,loss,1.1108738950093586,accuracy,0.34925
+Val data : ,loss,1.1115805282592774,accuracy,0.345
+Epoch,3
+Training data : ,loss,1.1050321299235026,accuracy,0.35425
+Val data : ,loss,1.0987050323486327,accuracy,0.3566666666666667
+Epoch,4
+Training data : ,loss,1.1021171232859293,accuracy,0.3616666666666667
+Val data : ,loss,1.100684684753418,accuracy,0.356
+Epoch,5
+Training data : ,loss,1.1003185539245606,accuracy,0.3585833333333333
+Val data : ,loss,1.1066267598470052,accuracy,0.359
+Epoch,6
+Training data : ,loss,1.0962433751424154,accuracy,0.37225
+Val data : ,loss,1.0963459650675456,accuracy,0.363
+Epoch,7
+Training data : ,loss,1.0944699529012045,accuracy,0.38283333333333336
+Val data : ,loss,1.1009913228352866,accuracy,0.3556666666666667
+Epoch,8
+Training data : ,loss,1.094000462849935,accuracy,0.3844166666666667
+Val data : ,loss,1.0993944193522136,accuracy,0.3586666666666667
+Epoch,9
+Training data : ,loss,1.0922689450581868,accuracy,0.376
+Val data : ,loss,1.0990022583007812,accuracy,0.368
+Epoch,10
+Training data : ,loss,1.0911900730133057,accuracy,0.38416666666666666
+Val data : ,loss,1.1021338500976563,accuracy,0.362
+Epoch,11
+Training data : ,loss,1.088393290201823,accuracy,0.3884166666666667
+Val data : ,loss,1.0981721471150716,accuracy,0.36633333333333334
+Epoch,12
+Training data : ,loss,1.0855802268981933,accuracy,0.4018333333333333
+Val data : ,loss,1.1035740407307943,accuracy,0.36333333333333334
+Epoch,13
+Training data : ,loss,1.0861003818511963,accuracy,0.3945
+Val data : ,loss,1.1026406326293945,accuracy,0.362
+Epoch,14
+Training data : ,loss,1.0828285185496012,accuracy,0.3993333333333333
+Val data : ,loss,1.1042795639038085,accuracy,0.36466666666666664
+Epoch,15
+Training data : ,loss,1.0830997594197591,accuracy,0.3998333333333333
+Val data : ,loss,1.1069958140055338,accuracy,0.371
+Epoch,16
+Training data : ,loss,1.0833236331939697,accuracy,0.39875
+Val data : ,loss,1.1026783879597981,accuracy,0.3616666666666667
+Epoch,17
+Training data : ,loss,1.0806253039042155,accuracy,0.4081666666666667
+Val data : ,loss,1.1070742263793945,accuracy,0.3606666666666667
+Epoch,18
+Training data : ,loss,1.0799678370157877,accuracy,0.4063333333333333
+Val data : ,loss,1.106745440165202,accuracy,0.362
+Epoch,19
+Training data : ,loss,1.0776169045766195,accuracy,0.4111666666666667
+Val data : ,loss,1.108955894470215,accuracy,0.35133333333333333
+Epoch,20
+Training data : ,loss,1.0753456840515137,accuracy,0.41508333333333336
+Val data : ,loss,1.1204600067138673,accuracy,0.3616666666666667
+Epoch,21
+Training data : ,loss,1.074243818918864,accuracy,0.41441666666666666
+Val data : ,loss,1.1107524490356446,accuracy,0.35433333333333333
+Epoch,22
+Training data : ,loss,1.0740037129720053,accuracy,0.41183333333333333
+Val data : ,loss,1.112885716756185,accuracy,0.35833333333333334
+Epoch,23
+Training data : ,loss,1.0693879556655883,accuracy,0.42
+Val data : ,loss,1.1157738291422525,accuracy,0.35433333333333333
+Epoch,24
+Training data : ,loss,1.0679157787958782,accuracy,0.4275
+Val data : ,loss,1.116424550374349,accuracy,0.36
+Epoch,25
+Training data : ,loss,1.0650037597020467,accuracy,0.43483333333333335
+Val data : ,loss,1.1212804692586262,accuracy,0.35
