@@ -1,4 +1,4 @@
-# 
+# Use RESNET and transition-matrix to learn a Robust image classifier from a noisy dataset
 
 
 
